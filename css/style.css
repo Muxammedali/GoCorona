@@ -1,4 +1,4 @@
-/*Обнуление*/
+/**/
 * {
   padding: 0;
   margin: 0;
@@ -329,9 +329,9 @@ body {
   }
 }
 
-/* ======================================================================================= FIRST SECTION */
-
-/* ======================================================= */
+/* ====
+FIRST SECTION */
+/* ==== */
 
 .block-text {
 }
@@ -384,7 +384,7 @@ body {
   }
 }
 
-/* ======================================================= */
+/* =========== */
 
 .get-started {
   background-color: #fafbfd;
@@ -499,7 +499,9 @@ body {
   max-width: 100%;
 }
 
-/* ======================================================================================= SECOND SECTION */
+/* ===
+ SECOND SECTION 
+   ===*/
 
 .stay-safe {
   padding: 80px 0px;
@@ -591,7 +593,7 @@ body {
   flex-shrink: 0;
 }
 
-/* ====================================== */
+/* ===== */
 
 .experts {
   background-color: #fafbfd;
@@ -619,7 +621,7 @@ body {
 
 .experts__content {
   flex: 0 1 50%;
-  padding: 0px 20px 0px 0px; /*отступ безопасности что бы у нас ничего не склеилось  */
+  padding: 0px 20px 0px 0px; /*Speed ​​Safety so that nothing has to stick together  */
 }
 
 .experts__video {
@@ -712,7 +714,7 @@ body {
   flex: 0 1 50%;
   text-align: center;
 }
-/* если какая то часть в этом месте не работает то ищи с вот этой цепочки с .body-statistics-experts__item так как когда копировал с csspeek он сам такое не выдал из за чвего я вручную написал селектор выше  */
+/* If some part in this place does not work, then look with this chain with. Body-Statics-Experts__ite because when I copied with CSSPEEK, he himself did not give out because of the member, I manually wrote a selector above  */
 .body-statistics-experts__value {
   font-weight: 700;
   font-size: 36px;
@@ -752,7 +754,7 @@ body {
   }
 }
 
-/*=================================================== */
+/*========= */
 
 .healthcare {
   padding: 80px 0px 30px 0px;
@@ -873,7 +875,7 @@ body {
   }
 }
 
-/*=========================================== */
+/*======== */
 
 .footer {
   padding: 45px 0;
