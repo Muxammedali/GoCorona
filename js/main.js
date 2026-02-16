@@ -1,5 +1,5 @@
 'use strict';
-
+// Muxammedali
 (function () {
   const menuToggle = document.querySelector('.menu__toggle');
   const menuBody = document.querySelector('.menu__body');
