@@ -1,5 +1,5 @@
 'use strict';
-// Muxammedali
+// Muxammedali 2025
 (function () {
   const menuToggle = document.querySelector('.menu__toggle');
   const menuBody = document.querySelector('.menu__body');
